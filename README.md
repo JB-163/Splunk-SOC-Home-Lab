@@ -13,7 +13,7 @@ A home Security Operations Center (SOC) lab built to simulate real-world threat 
 | Log Sources | Windows Security, System, Application, Sysmon |
 | Attack Simulation | Invoke-AtomicRedTeam |
 | Detection Framework | MITRE ATT&CK |
-| Host OS | Windows 11 (JBs_DESKTOP26) |
+| Host OS | Windows 11 |
 | VM | Windows 10 (VirtualBox) |
 
 ---
